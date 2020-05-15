@@ -2,7 +2,8 @@ const INITIAL_STATE = {
   sections: [
     {
       title: 'hats',
-      imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+      // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+      imageUrl: 'https://i.ibb.co/f19QF2H/ghost-recon-wildlands-cover.jpg',
       id: 1,
       linkUrl: 'shop/hats'
     },
@@ -21,7 +22,7 @@ const INITIAL_STATE = {
     {
       title: 'womens',
       //   imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
-      imageUrl: 'https://bit.ly/2VmYQS5',
+      imageUrl: 'https://i.ibb.co/p2VdVRt/dokkabei.jpg',
       size: 'large',
       id: 4,
       linkUrl: 'shop/womens'
@@ -29,7 +30,7 @@ const INITIAL_STATE = {
     {
       title: 'mens',
       //   imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
-      imageUrl: 'https://bit.ly/2VrsXYC',
+      imageUrl: 'https://i.ibb.co/ZMRL89R/maxresdefault.jpg',
       size: 'large',
       id: 5,
       linkUrl: 'shop/mens'
